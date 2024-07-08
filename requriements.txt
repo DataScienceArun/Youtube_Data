@@ -1,8 +1,6 @@
-google-api-core==2.19.1
-google-api-python-client==2.136.0
-google-auth==2.31.0
-google-auth-httplib2==0.2.0
-googleapis-common-protos==1.63.2
+google-api-python-client
+google-auth
+google-auth-httplib2
 pandas==2.0.3
 streamlit==1.12.0
 python==3.9.7
